@@ -1,6 +1,6 @@
 # 🎮 Base Converter Pro 🚀
 
-A modern, gaming-style number base conversion application built with Flutter. This project represents my journey from implementing base conversion algorithms in C to creating a fully-featured mobile and web application.
+A number base conversion application built with Flutter. This project represents my journey from implementing base conversion algorithms in C to creating a fully-featured mobile and web application.
 
 ## 🌟 Live Demo
 **[🔗 Try it now: https://base-converter-5c5c5.web.app](https://base-converter-5c5c5.web.app)**
